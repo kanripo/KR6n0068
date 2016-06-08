@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:24.058389
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 攝大乘論章卷第一
 #+PROPERTY: CBETA_ID T85n2807
 #+PROPERTY: ID KR6n0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2807
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0068_T_000-1011a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0068_T_001-1011a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2807¶
-
- 攝大乘論章卷第一¶
+No. 2807¶
+攝大乘論章卷第一¶
 ¶
 
 相不同有其十種。□□□□□□□是其¶
@@ -363,7 +362,7 @@ No.2807¶
 業及不善不繫。故地持論住品云。解行住菩¶
 薩或時起邪身口意業墮於惡道。解行上人¶
 猶起此業。十信下地判知有餘業。是其不繫¶
-報是不定。若漸悟菩薩從須陀至辟支。迴心¶
+報是不定。若漸悟苦薩從須陀至辟支。迴心¶
 入大。至十信地中亦有人無我觀無漏之道。¶
 故涅槃初功德云。須陀八萬劫發菩提心。乃¶
 至辟支十千劫發阿耨菩提心。彼須陀至辟¶
